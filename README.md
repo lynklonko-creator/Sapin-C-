@@ -34,12 +34,9 @@ cd guess-the-number
 
 ## 🛠️ Technologies utilisées
 
-* `<Technologie 1>`
-* `<Technologie 2>`
+* `<Boucle While dans C++>`
+* `<Boucle For dans C++>`
 
-## 📸 Aperçu
-
-*Ajoutez ici une capture d'écran du jeu.*
 
 ## 📄 Licence
 
