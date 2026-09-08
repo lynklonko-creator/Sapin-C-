@@ -17,19 +17,13 @@ Un petit jeu où le joueur doit deviner un nombre choisi aléatoirement par le p
 Clone le projet :
 
 ```bash
-git clone <URL_DU_PROJET>
-```
-
-Puis accède au dossier :
-
-```bash
-cd guess-the-number
+git clone <https://github.com/lynklonko-creator/Sapin-C-.git>
 ```
 
 ## ▶️ Lancer le jeu
 
 ```bash
-<COMMANDE_POUR_LANCER_LE_PROJET>
+Bouton Run
 ```
 
 ## 🛠️ Technologies utilisées
